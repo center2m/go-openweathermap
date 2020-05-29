@@ -1,3 +1,3 @@
-module github.com/briandowns/openweathermap
+module github.com/center2m/go-openweathermap
 
 go 1.13
